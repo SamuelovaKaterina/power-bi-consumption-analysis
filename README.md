@@ -32,10 +32,13 @@ and fact tables for consumption, expenditure and health indicators.
 3. Household Expenditure – structure and development over time
 4. Health Indicators – BMI and obesity trends, physical activity 
 
+
 ## Dashboard Preview
-![Overview](Screenshots/overview.png)
-![Consumption](Screenshots/consumption.png)
-![Health](Screenshots/health.png)
+![Overview](screenshots/1%20-%20overview.png)
+![Food Consumption](screenshots/2%20-%20food%20consumption.png)
+![Household Spending](screenshots/3%20-%20household%20spending.png)
+![Health](screenshots/4%20-%20health.png)
+
 
 ## Repository Content
 - `project.pbix` – main Power BI report file
